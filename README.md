@@ -1,9 +1,3 @@
-**GitHub Repository Description:**
-
-*An advanced sales forecasting project utilizing machine learning techniques to predict future sales based on historical data. The project employs sophisticated data preprocessing, feature engineering, and leverages powerful regression models like XGBoost, LightGBM, and CatBoost.*
-
----
-
 # Sales Forecasting Project
 
 An advanced machine learning project aimed at predicting sales for a retail dataset using state-of-the-art regression algorithms. This project involves comprehensive data cleaning, feature engineering, and model optimization techniques to achieve high prediction accuracy.
